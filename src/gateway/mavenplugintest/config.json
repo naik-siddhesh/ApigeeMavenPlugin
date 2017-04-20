@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "dev",
+            "name": "test",
             "policies": [
                 {
                     "name": "AssignQueryParam.xml",
